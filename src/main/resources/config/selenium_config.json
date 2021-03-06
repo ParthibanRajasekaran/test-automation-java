@@ -1,0 +1,10 @@
+{
+  "hub": " ",
+  "standalone_node": " ",
+  "hub_ie": " ",
+
+  "headless": false,
+  "insecure_certificate": true,
+  "no_sandbox": true,
+  "incognito": false
+}
